@@ -80,9 +80,9 @@ Klasa: 2kp
 
     Co robi informatyk budząc się na kacu?<br>
     Testuje pamięć.
-
-    <hr <font align="left" size="7" width="50%" color="yellow"/font>
 </fieldset>
+    <hr <font align="left" size="7" width="50%" color="yellow"/font>
+
 
 <h2 align="center">
     <font color="red">Żart o lekarzu</font>
@@ -95,8 +95,9 @@ Klasa: 2kp
 	-100zł <br>
 	-100zł za kilka minut pracy? <br>
 	-jak pan chce moge wyrywać powoli.
+	</fieldset>
     <hr <font align="centre" size="7" width="50%" color="turquoise"/font>
-</fieldset>
+
 
 <h3 align="right">
     <font color="purple">Żart o babie</font>
@@ -109,9 +110,9 @@ Klasa: 2kp
 	-panie doktorze dziękuje za wspaniałe leczenie <br>
 	-ależ ja leczyłem pani męża nie panią <br>
 	-tak tak ale ja po nim wszystko dziedzicze 
-
-    <hr <font align="right" size="7" width="50%" color="magenta"/font>
 </fieldset>
+    <hr <font align="right" size="7" width="50%" color="magenta"/font>
+
 
 <p>
     Daniel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sęk<br>
