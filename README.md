@@ -118,7 +118,7 @@ Klasa: 2kp
     Klasa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2kp
 </p>
 
-<p>&copy; 2026 &reg;</p>
+<p>&copy; &reg; &#167; &#166; &#165; &#164; &#163; </p>
 
 </body>
 </html>
